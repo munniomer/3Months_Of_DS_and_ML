@@ -1,4 +1,4 @@
-# 100 Days Of Data Science and Machine Learning Challenge - Log [Munira Omar]
+# 100 Days (3 Months) Of Data Science and Machine Learning Challenge - Log [Munira Omar]
 
 ### Day 1: June 1, 2019
 
