@@ -13,6 +13,14 @@
 
 **Thoughts**: I did some python code but I will upload it on this repo tomorrow.
 
+### Day 3: June 3, 2019
+
+**Today's Progress**: Spent one hour and half going through the Basics Python Course on Treehouse.
+
+**Thoughts**: I did some pytho code practices locally
+
+
+
 
 
 .
