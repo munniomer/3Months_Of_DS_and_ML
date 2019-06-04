@@ -20,6 +20,11 @@
 **Thoughts**: I did some pytho code practices locally
 
 
+### Day 4: June 4, 2019
+
+**Today's Progress**: Finally found a good book for learning Algebra.
+
+**Thoughts**: I decided to use books than videos as I learn faster using books
 
 
 
