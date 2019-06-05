@@ -27,6 +27,15 @@
 **Thoughts**: I decided to use books than videos as I learn faster using books
 
 
+### Day 5: June 5, 2019
+
+**Today's Progress**: Decided to make a blog post about Linear Algebra and the notes about Vectors I have been writing down while learning.
+
+
+
+
+
+
 
 .
 
