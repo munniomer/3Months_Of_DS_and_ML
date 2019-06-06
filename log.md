@@ -32,6 +32,10 @@
 **Today's Progress**: Decided to make a blog post about Linear Algebra and the notes about Vectors I have been writing down while learning.
 
 
+### Day 6: June 6, 2019
+
+**Today's Progress**: I read the first chapter of Think Python Book by Allen B. Downey
+
 
 
 
