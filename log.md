@@ -36,6 +36,16 @@
 
 **Today's Progress**: I read the first chapter of Think Python Book by Allen B. Downey
 
+### Day 7: June 7, 2019
+
+**Today's Progress**: I read the second chapter of Think Python Book by Allen B. Downey
+
+
+
+
+
+
+
 
 
 
