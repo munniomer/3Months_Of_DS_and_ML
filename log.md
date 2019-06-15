@@ -42,7 +42,9 @@
 
 
 
+### Day 8-15: June 8-15, 2019
 
+**Today's Progress**: I have been reading python bookd
 
 
 
